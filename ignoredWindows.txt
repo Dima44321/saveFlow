@@ -2,3 +2,4 @@
 Taskbar
 NVIDIA GeForce Overlay
 Program Manager
+MainWindow
